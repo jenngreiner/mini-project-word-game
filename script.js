@@ -1,5 +1,8 @@
+var startButton = document.querySelector(".start-button");
+var resetButton = document.querySelector(".reset-button");
 
 // Click a button to start a game
+addEventListener("click", )
 // Display number of blanks from random word that user is trying to guess
 // Need to time the game 
 // User wins the game when all letters have been correctly guessed
